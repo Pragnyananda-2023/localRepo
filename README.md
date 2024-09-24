@@ -6,3 +6,4 @@ Git commands for new initiallization
 --> git branch -M main  
 --> git push origin main  
 --> git push -u origin main  
+--> git push
